@@ -4,7 +4,6 @@ on:
     branches:
       - main
     paths-ignore:
-      - CNAME
       - README.md
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
