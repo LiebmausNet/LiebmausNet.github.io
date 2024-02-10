@@ -1,7 +1,7 @@
 site_name: LiebmausNet
 site_url: https://www.liebmaus.net
 copyright: >
-  2024 All rights reserved.
+  &copy; 2024 All rights reserved.
 nav:
   - Home: "index.md"
 theme:
