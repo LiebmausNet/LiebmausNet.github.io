@@ -4,6 +4,9 @@ copyright: >
   &copy; 2024 All rights reserved.
 nav:
   - Home: "index.md"
+  - LiebmausBot:
+    - bot/index.md
+    - Basic Commands: bot/basic-commands.md
 theme:
   name: material
   logo: images/suessmaus.png
