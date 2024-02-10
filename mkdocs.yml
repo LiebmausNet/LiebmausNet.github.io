@@ -6,6 +6,8 @@ nav:
   - Home: "index.md"
 theme:
   name: material
+  logo: images/suessmaus.png
+  favicon: images/suessmaus.png
   palette:
     scheme: slate
   features:
