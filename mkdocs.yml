@@ -7,6 +7,8 @@ nav:
   - LiebmausBot:
     - bot/index.md
     - Basic Commands: bot/basic-commands.md
+    - Randomizers:
+      - Lord of the Rings quotes: bot/randomizers/lotr-quotes.md
 theme:
   name: material
   logo: images/suessmaus.png
@@ -24,6 +26,7 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.indexes
+    - navigation.expand
     - toc.follow
     - content.tooltips
     - content.code.copy
