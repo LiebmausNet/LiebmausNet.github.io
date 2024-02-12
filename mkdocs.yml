@@ -41,6 +41,6 @@ plugins:
 extra:
   social:
     - icon: "fontawesome/brands/github"
-      link: "https://github.com/LiebmausBot"
+      link: "https://github.com/LiebmausNet"
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/LiebmausBot"
